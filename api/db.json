@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "streasm",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "streasm",
+      "description": "this is a great stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream was created by me!",
+      "userId": "101409789863871982050",
+      "id": 3
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Did not expect that",
+      "userId": "101409789863871982050",
+      "id": 4
+    }
+  ]
+}
